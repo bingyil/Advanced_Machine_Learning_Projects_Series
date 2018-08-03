@@ -8,11 +8,11 @@ Build a movie recommendation system by conducting matrix factorization with bias
 
 ## Spam Detection
 
-Implementing ada boost from the scratch to classify spam and perform comparisons between ada boost and gradient boosting tree.
+Implemente ada boost from the scratch to classify spam and perform comparisons between ada boost and gradient boosting tree.
 
-## MNIST_Neural_Net
+## Digit Recognition
 
-Pytorch Vanilla version of neural network using MNIST dataset
+Predict the digit 0 to 9 being drawn by building and tuning Neural Networks using Pytorch.
 
 ## IMDB Sentiment Analysis
 
